@@ -16,6 +16,6 @@ g path:hover { fill: #4aceed; cursor: default; }
   .flex { flex-direction: column; }
   .flex div { width: 100%; }
   .content { text-align: center; padding: 0 2rem; margin-bottom: 0; }
-  .mapdiv { max-width: 100%; }
+  .mapdiv { max-width: 100%; padding: 2rem 0; }
   .mapdiv svg { max-width: 85%; max-height: 90vh; margin: auto; display: block; }
 }
