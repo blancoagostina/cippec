@@ -73,7 +73,7 @@ hr.divi {
 }
 
 @media screen and (max-device-width: 576px) {
-  p { font-size: 13px; }
+  p { font-size: 14px; }
   h3 { margin: 0; font-size: 32px; }
   hr.divi { margin: 2rem auto; max-width: 20%; }
   .mapflex { flex-direction: column; }
